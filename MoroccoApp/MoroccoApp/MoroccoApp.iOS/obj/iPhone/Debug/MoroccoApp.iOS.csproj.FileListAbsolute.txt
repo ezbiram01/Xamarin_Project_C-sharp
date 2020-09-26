@@ -1,0 +1,8 @@
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Xamarin\Projet\MoroccoApp\MoroccoApp\MoroccoApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Xamarin\Projet\MoroccoApp\MoroccoApp\MoroccoApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Xamarin\Projet\MoroccoApp\MoroccoApp\MoroccoApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Xamarin\Projet\MoroccoApp\MoroccoApp\MoroccoApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Xamarin\Projet\MoroccoApp\MoroccoApp\MoroccoApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Xamarin\Projet\MoroccoApp\MoroccoApp\MoroccoApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Xamarin\Projet\MoroccoApp\MoroccoApp\MoroccoApp.iOS\obj\iPhone\Debug\MoroccoApp.iOS.csprojAssemblyReference.cache
+C:\Users\ziadb\OneDrive\Bureau\Michel_C#_Hiver2020\Xamarin\Projet\MoroccoApp\MoroccoApp\MoroccoApp.iOS\obj\iPhone\Debug\MoroccoApp.iOS.csproj.CoreCompileInputs.cache
